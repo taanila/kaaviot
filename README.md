@@ -2,4 +2,4 @@
 
 Opettele ensin perusasiat matplotlib.ipynb-notebookista.
 
-Muissa notebookeissa 10 matplotlib-esimerkkiä ja bonuksena esimerkkejä seaborn-kirjastosta.
+Sen jälkeen kannattaa käydä läpi seitsemän osainen notebook-sarja Matplotlib-perusteista.
