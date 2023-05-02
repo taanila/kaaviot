@@ -1,8 +1,0 @@
-numpy==1.21.*
-matplotlib==3.5.*
-seaborn==0.11.*
-xlrd==2.0.*
-pandas==1.4.*
-scikit-learn==1.0.*
-statsmodels==0.13.*
-scipy==1.7.*
