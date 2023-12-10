@@ -1,5 +1,5 @@
-# Matplotlib-kaaviot
+# Matplotlib- ja seaborn-kaaviot
 
-Opettele ensin perusasiat matplotlib.ipynb-notebookista.
+Tutustu ensin perusasioihin matplotlib-muistiossa ja jatka sen jälkeen matplotlib1-muistioon.
 
-Sen jälkeen kannattaa käydä läpi seitsemän osainen notebook-sarja Matplotlib-perusteista.
+
